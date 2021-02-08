@@ -1,0 +1,13 @@
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.exe
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.deps.json
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.runtimeconfig.json
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.runtimeconfig.dev.json
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.dll
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\bin\Debug\netcoreapp3.1\exceptionsProgram.pdb
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.csprojAssemblyReference.cache
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.AssemblyInfoInputs.cache
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.AssemblyInfo.cs
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.csproj.CoreCompileInputs.cache
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.dll
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.pdb
+C:\Users\gabew\source\repos\numberOfScores\exceptionsProgram\obj\Debug\netcoreapp3.1\exceptionsProgram.genruntimeconfig.cache
